@@ -3,14 +3,14 @@
 
 - 🌱 I’m currently learning **JavaScript**
 
-- 📫 How to reach me **Subrataparam7@gmail.com**
+- 📫 How to reach me **subrataparam7@gmail.com**
 
 - 📄 Know about me [https://drive.google.com/file/d/1_WQ-bhChhLyAdXq-8xcLtdh1s9mlvIzW/view?usp=drivesdk](https://drive.google.com/file/d/1_WQ-bhChhLyAdXq-8xcLtdh1s9mlvIzW/view?usp=drivesdk)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/subrata-pramanik-bab082220/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/subrata-pramanik-bab082220/" height="30" width="40" /></a>
-<a href="https://m.facebook.com/profile.php?eav=Afa3vsO399iZv8Y-4ZF87T5JCbFlqp_OavS0B220OdlYiNZB6tE8X1e3fQpAXe4SYAM&paipv=0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100037606600701" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100037606600701" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100037606600701" height="30" width="40" /></a>
 <a href="https://instagram.com/s.u.b.r.a.t.a_9884" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="s.u.b.r.a.t.a_9884" height="30" width="40" /></a>
 </p>
 
