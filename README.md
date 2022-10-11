@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **subrataparam7@gmail.com**
 
-- 📄 Know about me [check it out](https://drive.google.com/file/d/1K8ynmfV9dyrWlxfBUlYVXwOradg-0Mwl/view?usp=sharing)<br>
+- 📄 Know about me [check it out](https://drive.google.com/file/d/1aKWIUGjRjF4uqlQO46vy2H1w7qyWvJRn/view?usp=sharing)<br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
