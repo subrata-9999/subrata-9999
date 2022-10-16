@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Subrata Pramanik</h1>
 <h3 align="center">A passionate Front-end Developer from India</h3>
 
-- 🌱 I’m currently learning **ReactJS**
+- 🌱 Learning **ReactJS**
 
 - 📫 How to reach me **subrataparam7@gmail.com**
 
