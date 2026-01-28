@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Subrata Pramanik</h1>
 <h3 align="center">A Web Developer from India</h3>
 
-- 🌱 Learning **PHP**
+- 🌱 Learning **TECH**
 
 - 📫 How to reach me **subrataparam7@gmail.com**
 
