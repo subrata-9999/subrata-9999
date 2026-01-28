@@ -15,7 +15,19 @@
 </p><br>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/570px-C_Programming_Language.svg.png?20201031132917" alt="c" width="38" height="38"/> </a> <a href="" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/800px-ISO_C%2B%2B_Logo.svg.png" alt="cplusplus" width="38" height="38"/> </a> <a href="" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/182px-Java_programming_language_logo.svg.png" alt="java" width="31" height="47"/> </a> <a href="" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/180px-HTML5_logo_and_wordmark.svg.png" alt="html5" width="45" height="41"/> </a>  <a href="" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/180px-CSS3_logo_and_wordmark.svg.png" alt="css3" width="35" height="41"/> </a> <a href="" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/800px-JavaScript-logo.png" alt="javascript" width="38" height="38"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="[https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/180px-Bootstrap_logo.svg.png](https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow@2x.png)" alt="bootstrap" width="43" height="37"/> </a> <a href="" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Webysther_20160423_-_Elephpant.svg/200px-Webysther_20160423_-_Elephpant.svg.png" alt="c" width="41" height="43"/> </a> <a href="" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/180px-Laravel.svg.png" alt="c" width="41" height="43"/> </a><a href="" target="_blank" rel="noreferrer"> <img src="https://w7.pngwing.com/pngs/871/893/png-transparent-codeigniter-plain-logo-icon.png" alt="c" width="41" height="43"/></a></p><br>
+<p align="left">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="40" height="40"/>
+  <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="FastAPI" width="60" height="80"/>
+  <img src="https://static.djangoproject.com/img/logos/django-logo-positive.svg" alt="Django" width="60" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" alt="PHP" width="50" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" alt="Laravel" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/CodeIgniter_Logo.svg/500px-CodeIgniter_Logo.svg.png" alt="CodeIgniter" width="80" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Github-desktop-logo-symbol.svg" alt="GitHub" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="MySQL" width="45" height="40"/>
+</p>
+<br>
 
 | [![Subrata's GitHub stats](https://github-readme-stats.vercel.app/api?username=subrata-9999&theme=chartreuse-dark&show_icons=true)](https://github-readme-streak-stats.herokuapp.com/?user=subrata-9999) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=subrata-9999&layout=compact&theme=chartreuse-dark)]() |
 | --- | --- |
